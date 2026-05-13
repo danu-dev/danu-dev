@@ -27,7 +27,7 @@ Masih awal, tapi serius. 💪
 
 ### 💻 Tech Stack & Skills
 
-**⚡ LOGIC**
+**⚡ Logic & Framework**
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -37,7 +37,7 @@ Masih awal, tapi serius. 💪
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-007AFF?style=for-the-badge&logo=json&logoColor=white)
 
-**🛠️ INFRA**
+**🛠️ Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -45,13 +45,13 @@ Masih awal, tapi serius. 💪
 ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**🧠 ENGINEERING**
+**🧠 Engineering**
 
 ![Architecture](https://img.shields.io/badge/Architecture-4B5563?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-EAB308?style=for-the-badge)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-DC2626?style=for-the-badge)
 
-**🔧 TOOLS**
+**🔧 Software Tools**
 
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
