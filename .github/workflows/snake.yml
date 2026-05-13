@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # update tiap hari
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Berjalan otomatis setiap tengah malam
+  workflow_dispatch:      # Memungkinkan kamu menjalankan manual dari tab Actions
 
 permissions:
   contents: write
@@ -12,14 +12,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1. Langkah Penting: Checkout repositori agar workflow bisa mengakses file
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Membuat file SVG ular berdasarkan kontribusi GitHub
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: DanzSukaRgb
+          github_user_name: danu-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 3. Mengirim hasilnya ke branch bernama 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
