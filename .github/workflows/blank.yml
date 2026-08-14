@@ -1,39 +1,10 @@
-name: Laravel CI
-
+# ponytail: disabled unused Laravel CI in profile repo to keep Actions green
+name: Disabled
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   workflow_dispatch:
-
 jobs:
-  # Kita ganti nama 'build' jadi 'test' agar lebih jelas
-  test:
+  disabled:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Tetap, unduh kodemu dulu
-      - uses: actions/checkout@v4
+      - run: echo "Workflow disabled"
 
-      # 2. Siapkan PHP
-      # Server Ubuntu tidak punya PHP bawaan.
-      # Kita pakai 'Action' orang lain untuk meng-install PHP
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: '8.2' # Ganti sesuai versi PHP-mu
-
-      # 3. Install dependensi Composer
-      - name: Install Composer Dependencies
-        run: composer install --no-progress --prefer-dist
-      
-      # 4. Siapkan file .env Laravel
-      # Kita tidak pernah menyimpan .env di GitHub. 
-      # Untuk tes, kita salin saja dari .env.example.
-      - name: Prepare Environment
-        run: cp .env.example .env
-
-      # 5. Buat Kunci Aplikasi (App Key)
-      - name: Generate App Key
-        run: php artisan key:generate

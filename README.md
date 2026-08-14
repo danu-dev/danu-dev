@@ -75,14 +75,6 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 ---
 
-### GitHub Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=danu-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Danu's GitHub Streak Stats" />
-</div>
-
----
-
 <div align="center">
 
 ### Contributions
