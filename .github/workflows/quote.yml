@@ -1,0 +1,47 @@
+name: Daily Dev Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    name: Update Daily Quote
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch and update quote
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const quotes = [
+              { quote: "Talk is cheap. Show me the code.", author: "Linus Torvalds" },
+              { quote: "First, solve the problem. Then, write the code.", author: "John Johnson" },
+              { quote: "Make it work, make it right, make it fast.", author: "Kent Beck" },
+              { quote: "Simplicity is prerequisite for reliability.", author: "Edsger W. Dijkstra" },
+              { quote: "Code is like humor. When you have to explain it, it’s bad.", author: "Cory House" },
+              { quote: "Fix the cause, not the symptom.", author: "Steve Maguire" },
+              { quote: "Before software can be reusable it first has to be usable.", author: "Ralph Johnson" },
+              { quote: "Deleted code is debugged code.", author: "Jeff Sickel" }
+            ];
+            const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+            const formatted = `<sub>*\"${randomQuote.quote}\" — ${randomQuote.author}*</sub>`;
+            
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const pattern = /<!--START_SECTION:quote-->[\s\S]*?<!--END_SECTION:quote-->/;
+            if (pattern.test(readme)) {
+              readme = readme.replace(pattern, `<!--START_SECTION:quote-->\n${formatted}\n<!--END_SECTION:quote-->`);
+              fs.writeFileSync('README.md', readme, 'utf8');
+            }
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update daily dev quote [skip ci]" || echo "No changes to commit"
+          git push

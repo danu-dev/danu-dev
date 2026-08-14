@@ -75,6 +75,20 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 ---
 
+### Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
 
 ### Contributions
@@ -87,6 +101,8 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 <br/>
 
-<sub>*"Talk is cheap. Show me the code."*</sub>
+<!--START_SECTION:quote-->
+<sub>*"Talk is cheap. Show me the code." — Linus Torvalds*</sub>
+<!--END_SECTION:quote-->
 
 </div>
