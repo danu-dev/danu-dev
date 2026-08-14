@@ -4,6 +4,12 @@
 # M. Afdanu Aprilian Saputra
 ### Fullstack Web & Mobile Developer
 
+![Status](https://img.shields.io/badge/Status-Open_for_Opportunities-059669?style=flat-square&logo=statuspage&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Indonesia-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=danu-dev&color=0284C7&style=flat-square&label=Views)
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=0284C7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Vue.js+%7C+React+%7C+Laravel+API;Web+%26+Mobile+App+Development;Focused+on+clean+code+%26+usable+UI)](https://git.io/typing-svg)
 
 <br/>
