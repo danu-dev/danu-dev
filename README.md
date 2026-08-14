@@ -75,12 +75,10 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 ---
 
-### GitHub Stats
+### GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danu-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Danu's GitHub Stats" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danu-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="155" />
+  <img src="https://streak-stats.demolab.com?user=danu-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="Danu's GitHub Streak Stats" />
 </div>
 
 ---
