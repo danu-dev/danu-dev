@@ -62,6 +62,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 **Software & Tools**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-18181B?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-22A7F0?style=for-the-badge&logo=mariadb&logoColor=white)
