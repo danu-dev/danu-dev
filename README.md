@@ -1,10 +1,10 @@
-<!-- ponytail: minimal, emoji-free svg-based github profile readme -->
+<!-- ponytail: minimal, emoji-free svg-based github profile readme (english) -->
 <div align="center">
 
 # M. Afdanu Aprilian Saputra
 ### Fullstack Web & Mobile Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=0284C7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Vue.js+%7C+Laravel+API;Alumni+SMKN+6+Jember;Focused+on+clean+code+%26+usable+UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=0284C7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Vue.js+%7C+React+%7C+Laravel+API;Web+%26+Mobile+App+Development;Focused+on+clean+code+%26+usable+UI)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,12 +18,12 @@
 
 ### About Me
 
-Halo! Saya **Danu** — developer dengan fokus utama pada mobile development menggunakan **Flutter**, serta web fullstack dengan ekosistem **Vue.js & Laravel**.
+Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** and fullstack web development across **Vue.js, React, Next.js, and Laravel**.
 
-- **Mobile First**: Fokus membangun aplikasi mobile yang responsif, performant, dan nyaman digunakan.
-- **Fullstack Capabilities**: Membangun RESTful API dengan Laravel & frontend interaktif dengan Vue.js.
-- **Experience**: Eks-magang di **PT Hummatech** (kolaborasi tim & implementasi Flutter di proyek riil).
-- **Achievement**: Finalis Nasional **JHIC & EPIM 2025**.
+- **Mobile First**: Designing and developing responsive, high-performance, and intuitive mobile applications.
+- **Fullstack Capabilities**: Building robust RESTful APIs with Laravel and scalable modern frontends.
+- **Experience**: Former intern at **PT Hummatech**, collaborating in an agile team on production-ready Flutter applications.
+- **Achievement**: National Finalist at **JHIC & EPIM 2025**.
 
 ---
 
