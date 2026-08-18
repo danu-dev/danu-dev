@@ -79,7 +79,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=danu-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danu-dev&theme=tokyonight&hide_border=true&background=0b0b14&ring=0284c7&fire=38bdf8&currStreakLabel=38bdf8" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=danu-dev&theme=tokyonight&hide_border=true&background=0b0b14&ring=0284c7&fire=38bdf8&currStreakLabel=38bdf8" height="150" alt="GitHub Streak" />
 </div>
 
 <br/>
