@@ -90,12 +90,25 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 ---
 
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/danu-dev/pkl-dev">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=danu-dev&repo=pkl-dev&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" alt="pkl-dev" />
+  </a>
+  <a href="https://github.com/danu-dev/danu-dev">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=danu-dev&repo=danu-dev&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" alt="danu-dev" />
+  </a>
+</div>
+
+---
+
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit(s) to [danu-dev/danu-dev](https://github.com/danu-dev/danu-dev)
-2. 🚀 Pushed 2 commit(s) to [danu-dev/pkl-dev](https://github.com/danu-dev/pkl-dev)
-3. 🚀 Pushed 1 commit(s) to [danu-dev/danu-dev](https://github.com/danu-dev/danu-dev)
+- 🚀 **Pushed 1 commit** to [`danu-dev/danu-dev`](https://github.com/danu-dev/danu-dev)
+- 🚀 **Pushed 2 commits** to [`danu-dev/pkl-dev`](https://github.com/danu-dev/pkl-dev)
+- 🔨 **Created repository** [`danu-dev/pkl-dev`](https://github.com/danu-dev/pkl-dev)
 <!--END_SECTION:activity-->
 
 ---
