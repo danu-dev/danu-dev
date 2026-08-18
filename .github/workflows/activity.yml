@@ -19,4 +19,3 @@ jobs:
         with:
           COMMIT_MSG: "chore: update recent activity [skip ci]"
           MAX_LINES: 5
-          FILTER_EVENTS: PushEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,CreateEvent,ReleaseEvent
