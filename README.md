@@ -78,7 +78,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 ### Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=danu-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=danu-dev&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=38bdf8&text_color=94a3b8&icon_color=0284c7" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danu-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=38bdf8&text_color=94a3b8" height="160" alt="Top Languages" />
 </div>
 
