@@ -1,21 +1,21 @@
-<!-- ponytail: minimal, emoji-free svg-based github profile readme (english) -->
+<!-- ponytail: minimal, emoji-free svg-based github profile readme (indonesian) -->
 <div align="center">
 
 # M. Afdanu Aprilian Saputra
-### Fullstack Web & Mobile Developer
+### Pengembang Web & Aplikasi Mobile Fullstack
 
 [![English](https://img.shields.io/badge/Language-English-0284C7?style=flat-square)](README.md)
 [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa-Indonesia-059669?style=flat-square)](README.id.md)
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open_for_Opportunities-059669?style=flat-square&logo=statuspage&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Indonesia-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
-![Visitors](https://komarev.com/ghpvc/?username=danu-dev&color=0284C7&style=flat-square&label=Views)
+![Status](https://img.shields.io/badge/Status-Terbuka_untuk_Peluang-059669?style=flat-square&logo=statuspage&logoColor=white)
+![Lokasi](https://img.shields.io/badge/Lokasi-Indonesia-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
+![Pengunjung](https://komarev.com/ghpvc/?username=danu-dev&color=0284C7&style=flat-square&label=Dilihat)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=0284C7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Vue.js+%7C+React+%7C+Laravel+API;Web+%26+Mobile+App+Development;Focused+on+clean+code+%26+usable+UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=0284C7&center=true&vCenter=true&width=500&lines=Flutter+%7C+Vue.js+%7C+React+%7C+Laravel+API;Pengembangan+Web+%26+Mobile;Fokus+pada+clean+code+%26+UI+yang+nyaman)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,26 +27,26 @@
 
 ---
 
-### About Me
+### Tentang Saya
 
-Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** and fullstack web development across **Vue.js, React, Next.js, and Laravel**.
+Halo! Saya **Danu** — seorang pengembang perangkat lunak yang berfokus pada pengembangan aplikasi mobile menggunakan **Flutter** serta fullstack web dengan **Vue.js, React, Next.js, dan Laravel**.
 
-- **Mobile First**: Designing and developing responsive, high-performance, and intuitive mobile applications.
-- **Fullstack Capabilities**: Building robust RESTful APIs with Laravel and scalable modern frontends.
-- **Experience**: Former intern at **PT Hummatech**, collaborating in an agile team on production-ready Flutter applications.
-- **Achievement**: National Finalist at **JHIC & EPIM 2025**.
+- **Mobile First**: Merancang dan mengembangkan aplikasi mobile yang responsif, berkinerja tinggi, dan intuitif.
+- **Kemampuan Fullstack**: Membangun RESTful API yang andal menggunakan Laravel serta frontend modern yang terukur (*scalable*).
+- **Pengalaman**: Pernah magang di **PT Hummatech**, berkolaborasi dalam tim *agile* untuk mengembangkan aplikasi Flutter siap produksi.
+- **Prestasi**: Finalis Nasional di **JHIC & EPIM 2025**.
 
 ---
 
-### Tech Stack
+### Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nextjs,astro,vue,laravel,php,nodejs,mysql,redis,git,postman,figma,vscode,androidstudio" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nextjs,astro,vue,laravel,php,nodejs,mysql,redis,git,postman,figma,vscode,androidstudio" alt="Ikon Tech Stack" />
 </div>
 
 <br/>
 
-**Logic & Framework**  
+**Logika & Framework**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -59,19 +59,19 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Infrastructure & Database**  
+**Infrastruktur & Basis Data**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Engineering & Methods**  
-![Architecture](https://img.shields.io/badge/Architecture-0F172A?style=for-the-badge&logo=diagram-project&logoColor=white)
+**Rekayasa & Metode**  
+![Arsitektur](https://img.shields.io/badge/Arsitektur-0F172A?style=for-the-badge&logo=diagram-project&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-0F172A?style=for-the-badge&logo=sentry&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0F172A?style=for-the-badge&logo=codewars&logoColor=white)
 
-**Software & Tools**  
+**Perangkat Lunak & Alat**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-18181B?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -80,14 +80,14 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 ---
 
-### Weekly Coding Activity
+### Aktivitas Coding Mingguan
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-### Recent Activity
+### Aktivitas Terkini
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -96,7 +96,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 
 <div align="center">
 
-### Contributions
+### Kontribusi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danu-dev/danu-dev/output/github-contribution-grid-snake-dark.svg">
@@ -107,7 +107,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra*</sub>
+<sub>*"Talk is cheap. Show me the code." — Linus Torvalds*</sub>
 <!--END_SECTION:quote-->
 
 </div>
