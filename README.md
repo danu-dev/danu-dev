@@ -102,7 +102,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Code is like humor. When you have to explain it, it’s bad." — Cory House*</sub>
+<sub>*"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra*</sub>
 <!--END_SECTION:quote-->
 
 </div>
