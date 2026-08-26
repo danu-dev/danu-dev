@@ -102,7 +102,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Fix the cause, not the symptom." — Steve Maguire*</sub>
+<sub>*"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra*</sub>
 <!--END_SECTION:quote-->
 
 </div>
