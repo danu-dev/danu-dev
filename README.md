@@ -102,7 +102,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Fix the cause, not the symptom." — Steve Maguire*</sub>
+<sub>*"Code is like humor. When you have to explain it, it’s bad." — Cory House*</sub>
 <!--END_SECTION:quote-->
 
 </div>
