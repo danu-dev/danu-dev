@@ -102,7 +102,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Make it work, make it right, make it fast." — Kent Beck*</sub>
+<sub>*"Talk is cheap. Show me the code." — Linus Torvalds*</sub>
 <!--END_SECTION:quote-->
 
 </div>
