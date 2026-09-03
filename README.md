@@ -85,6 +85,8 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [DevTime VS Code Extension v0.1.3 (Queue Chunking & Debug Log)](https://github.com/danu-dev/devtime/releases/tag/v0.1.3) in [danu-dev/devtime](https://github.com/danu-dev/devtime)
+2. 🚀 Published release [DevTime VS Code Extension v0.1.2](https://github.com/danu-dev/devtime/releases/tag/v0.1.2) in [danu-dev/devtime](https://github.com/danu-dev/devtime)
 <!--END_SECTION:activity-->
 
 ---
