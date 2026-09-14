@@ -104,7 +104,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Deleted code is debugged code." — Jeff Sickel*</sub>
+<sub>*"Fix the cause, not the symptom." — Steve Maguire*</sub>
 <!--END_SECTION:quote-->
 
 </div>
