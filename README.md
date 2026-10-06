@@ -104,7 +104,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Before software can be reusable it first has to be usable." — Ralph Johnson*</sub>
+<sub>*"Talk is cheap. Show me the code." — Linus Torvalds*</sub>
 <!--END_SECTION:quote-->
 
 </div>
