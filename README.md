@@ -104,7 +104,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"Talk is cheap. Show me the code." — Linus Torvalds*</sub>
+<sub>*"Code is like humor. When you have to explain it, it’s bad." — Cory House*</sub>
 <!--END_SECTION:quote-->
 
 </div>
