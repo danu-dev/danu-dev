@@ -104,7 +104,7 @@ Hi! I'm **Danu** — a developer focused on mobile development with **Flutter** 
 <br/>
 
 <!--START_SECTION:quote-->
-<sub>*"First, solve the problem. Then, write the code." — John Johnson*</sub>
+<sub>*"Before software can be reusable it first has to be usable." — Ralph Johnson*</sub>
 <!--END_SECTION:quote-->
 
 </div>
